@@ -1,1 +1,1 @@
-console.log("Prtaeek")
+console.log("Prtaeek");
